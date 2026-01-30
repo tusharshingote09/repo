@@ -1,0 +1,2 @@
+barplot(airquality$Ozone, main='Ozone concentration in air', xlab='Ozone levels', col='blue',horiz=FALSE)
+barplot(airquality$Ozone, main='Ozone concentration in air', xlab='Ozone levels',col='black', horiz=TRUE)

@@ -1,0 +1,1 @@
+boxplot(airquality[,0:4], main = 'Box plot for Air Quality parameter')
